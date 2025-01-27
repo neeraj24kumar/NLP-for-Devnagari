@@ -11,7 +11,7 @@ Before you begin, ensure you have the following files in your GitHub repository:
 
 Note :- provide proper path for the above mentioned files.
 
-# Opeartions Covered:- 
+# Operations Covered:- 
 ### Tokenization
 - **Definition**: The process of breaking down text into smaller units, such as words or sentences.
 - **Purpose**: Facilitates the analysis of text by providing manageable units.
